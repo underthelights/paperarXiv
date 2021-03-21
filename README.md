@@ -12,25 +12,25 @@ Papers for Deep Learning
 
 ## Contents
 
-* [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
-* [Optimization / Training Techniques](#optimization--training-techniques)
-* [Unsupervised / Generative Models](#unsupervised--generative-models)
-* [Convolutional Network Models](#convolutional-neural-network-models)
-* [Image Segmentation / Object Detection](#image-segmentation--object-detection)
-* [Image / Video / Etc](#image--video--etc)
-* [Natural Language Processing / RNNs](#natural-language-processing--rnns)
-* [Speech / Other Domain](#speech--other-domain)
-* [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
-* [More Papers from 2016](#more-papers-from-2016)
+* [Understanding / Generalization / Transfer](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#understanding--generalization--transfer)
+* [Optimization / Training Techniques](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#optimization--training-techniques)
+* [Unsupervised / Generative Models](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#unsupervised--generative-models)
+* [Convolutional Network Models](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#convolutional-neural-network-models)
+* [Image Segmentation / Object Detection](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#image-segmentation--object-detection)
+* [Image / Video / Etc](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#image--video--etc)
+* [Natural Language Processing / RNNs](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#natural-language-processing--rnns)
+* [Speech / Other Domain](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#speech--other-domain)
+* [Reinforcement Learning / Robotics](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#reinforcement-learning--robotics)
+* [More Papers from 2016](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#more-papers-from-2016)
 
 *(More than Top 100)*
 
-* [New Papers](#new-papers) : Less than 6 months
-* [Old Papers](#old-papers) : Before 2012
-* [HW / SW / Dataset](#hw--sw--dataset) : Technical reports
-* [Book / Survey / Review](#book--survey--review)
-* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
-* [Appendix: More than Top 100](#appendix-more-than-top-100) : More papers not in the list
+* [New Papers](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#new-papers) : Less than 6 months
+* [Old Papers](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#old-papers) : Before 2012
+* [HW / SW / Dataset](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#hw--sw--dataset) : Technical reports
+* [Book / Survey / Review](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#book--survey--review)
+* [Video Lectures / Tutorials / Blogs](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#video-lectures--tutorials--blogs)
+* [Appendix: More than Top 100](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#appendix-more-than-top-100) : More papers not in the list
 
 * * *
   > sungjoon choi lectures
