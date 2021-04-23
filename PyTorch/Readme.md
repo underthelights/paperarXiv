@@ -2,7 +2,10 @@
 
 ## Intro
 
-[[D] What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)에서 가져온 논문 리스트
+- [[D] What deep learning papers should I implement to learn?](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/)에서 가져온 논문 리스트
+
+- learning framework
+
 
 ## Architectures
 
