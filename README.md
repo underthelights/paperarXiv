@@ -4,7 +4,7 @@ Papers for Deep Learning
 > 논문을 읽고 다양한 생각해보기 
 
 # deep-learning-papers
-
+- [JONGSKY](https://github.com/JONGSKY/paper)
 ## Computer Vision
 ### CNN Architecture
 * AlexNet: ImageNet Classification with Deep Convolutional Neural Networks 
