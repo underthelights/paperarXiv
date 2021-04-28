@@ -1,6 +1,6 @@
 # paperarXiv
 Papers for Deep Learning
-
+- with [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/)
 > 논문을 읽고 다양한 생각해보기 
 
 # deep-learning-papers
