@@ -242,6 +242,7 @@ Papers for Deep Learning
 * [Video Lectures / Tutorials / Blogs](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#video-lectures--tutorials--blogs)
 * [Appendix: More than Top 100](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md#appendix-more-than-top-100) : More papers not in the list
 
+https://www.facebook.com/photo/?fbid=4263296743722725&set=a.575208252531611
 * * *
   > sungjoon choi lectures
 
