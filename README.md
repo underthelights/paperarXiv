@@ -7,6 +7,9 @@ Papers for Deep Learning
 - [JONGSKY](https://github.com/JONGSKY/paper)
 ## Computer Vision
 ### CNN Architecture
+
+![x](https://user-images.githubusercontent.com/40276516/77990083-598f4080-735b-11ea-81ee-0249acb7bebd.png)
+
 * AlexNet: ImageNet Classification with Deep Convolutional Neural Networks 
 * ZFNet (DeconvNet): Visualizing and Understanding Convolutional Networks ([pdf](https://arxiv.org/pdf/1311.2901.pdf), [note](https://drive.google.com/open?id=1bzkoKVxLALaD6ZWQh5-vP9qOodMdIwi0), code)
 * NIN: Network in Network
