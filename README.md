@@ -8,7 +8,7 @@ Papers for Deep Learning
 ## Computer Vision
 ### CNN Architecture
 
-![x](https://user-images.githubusercontent.com/40276516/77990083-598f4080-735b-11ea-81ee-0249acb7bebd.png)
+
 
 * AlexNet: ImageNet Classification with Deep Convolutional Neural Networks 
 * ZFNet (DeconvNet): Visualizing and Understanding Convolutional Networks ([pdf](https://arxiv.org/pdf/1311.2901.pdf), [note](https://drive.google.com/open?id=1bzkoKVxLALaD6ZWQh5-vP9qOodMdIwi0), code)
@@ -48,6 +48,7 @@ Papers for Deep Learning
 
 
 ### [Semantic Segmentation](./doc/semantic_segmentation.md)
+![x](https://user-images.githubusercontent.com/40276516/77990083-598f4080-735b-11ea-81ee-0249acb7bebd.png)
 * FCN_V1 (2014)에서 직접적인 영향을 받은 모델들:
   * FCN + max-pooling indices를 사용: SegNet V2 (2015) ([note](https://drive.google.com/open?id=1CDNkW-3LKVDjGAyPCgj8fOz78pMY0Pd7))
   * FCN 개선: Fully Convolutional Networks for Semantic Segmentation (FCN_V2, 2016) ([note](https://drive.google.com/open?id=1Kr2-ZdiqKmsgXP2ofaUZm_PT5UbbTyDN), [code](https://github.com/bt22dr/CarND-Semantic-Segmentation/blob/master/main.py))
